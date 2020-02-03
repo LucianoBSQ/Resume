@@ -1,0 +1,187 @@
+  
+  /* Levantamos la fuente de la carpeta local del sitio */
+@font-face {
+    font-family: futura;
+    src: url(webfonts/FuturaBook.ttf);
+}
+
+@font-face {
+    font-family: futurab;
+    src: url(webfonts/futuraBold.ttf);
+}
+
+h1 {
+    font-family: futuraB, sans-serif;
+}
+
+body {
+    font-family:Helvetica,Arial,Verdana,sans-serif;
+    background-color: black;
+    margin: 0px;
+}
+
+#contenedor_principal {
+    background-color: black;
+    width: 960px;
+    height: 700px;
+    margin: 0 auto;
+  }
+  
+  header {
+    width: 950px;
+    height: 100px;
+    background-color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    display: inline-block;
+    margin-bottom: -4px;
+  }
+  
+  header img {
+    /* Para evitar los 4px que se agregan al colocar una etiqueta <img> */
+    display: block;
+  }
+  
+  nav {
+    width: 950px;
+    height: 35px;
+    background-color: black;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+  }
+  
+  nav a {
+    display: inline-block;
+    width: 310px;
+    height: 35px;
+    font-family: futuraB, sans-serif;
+    font-size: 30px;
+    margin-left: 3px;
+    text-decoration: none;
+    text-align: center; 
+    background-color: #fd7792;
+    color: white;
+  }
+  
+  .boton_activo {
+    color: white;
+    background-color: #7792fd;
+  }
+  
+  nav a:hover {
+    background-color: #7792fd;
+    color: white;
+  }
+  
+  main {
+    width: 950px;
+    height: 510px;
+    background-color: #7792fd;
+    margin-left: 5px;
+  }
+  
+  main article {
+    display: inline-block;
+    width: 930px;
+    height: 490px;
+    background-color:#d6defe;
+    margin-top: 5px;
+    margin-left: 5px;
+    text-align: center;
+  }
+  
+  main article h1 {
+    font-family: futura, sans-serif;
+    padding-top: 30px;
+    color: #fd7792;
+  }
+ 
+  #galeria h1 {
+    color:  #fd7792;
+    margin: 15px;
+  }
+   
+  #galeria {
+    display: inline-block;
+    width: 930px;
+    height: 490px;
+    background-color: #d6defe;
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  
+  #galeria p {
+    margin: 0px;
+  }
+  
+  .miniatura {
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    background-color: gray;
+    margin-top: 10px;
+    margin-left: 24px;
+    text-decoration: none;
+    color: gray;
+  }
+  
+  .miniatura img {
+    outline: 1px solid gray;
+  }
+  
+  #contenedor_imagen {
+    display: inline-block;
+    width: 640px;
+    height: 480px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 150px;
+  }
+  #contenedor_imagen2 {
+    display: inline-block;
+    width: 480px;
+    height: 480px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 225px;
+  }
+  
+  footer {
+    width: 950px;
+    height: 30px;
+    background-color: #92fd77;
+    margin-left: 5px;
+    margin-top: 5px;
+  }
+  
+  footer p {
+    color: #7792fd;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 640px;
+  }
+
+  footer a {
+    color: #fd7792;
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 18px;
+    ;
+    text-decoration: none;
+    margin-left: 450px ;
+  }
+
+  #contacto{
+      width: 900px;
+      margin-left: 10px;
+      padding: 5px;
+      background-color: #c8d3fe;
+      text-decoration: none;
+  }
+
+  #contacto a {
+    text-decoration: none;
+}
+  
+  

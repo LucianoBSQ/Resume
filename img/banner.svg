@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg3727"
+   width="950"
+   height="100"
+   viewBox="0 0 950.00004 100"
+   sodipodi:docname="banner.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3733">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3731">
+    <font
+       horiz-adv-x="1024"
+       id="font5199"
+       inkscape:label="font 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
+      <font-face
+         units-per-em="1024"
+         id="font-face5201"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph5203" />
+    </font>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview3729"
+     showgrid="false"
+     inkscape:zoom="1.081915"
+     inkscape:cx="534.86537"
+     inkscape:cy="84.393404"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3727" />
+  <rect
+     style="fill:none"
+     id="rect3737"
+     width="1256.1061"
+     height="199.64601"
+     x="0.92428708"
+     y="-100.57029" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:0;stroke:none;stroke-opacity:0"
+     id="rect5181"
+     width="321.55627"
+     height="197.37804"
+     x="-235.28508"
+     y="-156.19931" />
+  <rect
+     style="opacity:1;fill:#fd7792;fill-opacity:1;stroke:#999999;stroke-width:0.64678741;stroke-opacity:1"
+     id="rect5189"
+     width="959.35321"
+     height="109.35321"
+     x="-2.7577717"
+     y="-0.1254268" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot5191"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(0,-100)"><flowRegion
+       id="flowRegion5193"><rect
+         id="rect5195"
+         width="585.59839"
+         height="291.49207"
+         x="215.67798"
+         y="-86.263504" /></flowRegion><flowPara
+       id="flowPara5197" /></flowRoot>  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="9.105545"
+     y="84.451263"
+     id="text5207"><tspan
+       sodipodi:role="line"
+       id="tspan5205"
+       x="9.105545"
+       y="84.451263"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">BSQ</tspan></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot823"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+     transform="translate(304.64076,214.83782)"><flowRegion
+       id="flowRegion825"
+       style="fill:#ffffff"><rect
+         id="rect827"
+         width="1486.2174"
+         height="139.86391"
+         x="-45.749874"
+         y="-168.61328"
+         style="fill:#ffffff" /></flowRegion><flowPara
+       id="flowPara829"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:'Futura Bk BT';-inkscape-font-specification:'Futura Bk BT';fill:#ffffff">Luciano Benjamin Sanchez Quesada</flowPara></flowRoot></svg>
