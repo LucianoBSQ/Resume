@@ -1,1 +1,1 @@
-document.querySelector(footer).innerText = "Diseño LucianoBSQ";
+document.querySelector('footer').innerText = "Diseño LucianoBSQ";
